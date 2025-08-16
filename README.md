@@ -1,13 +1,5 @@
 # Hi there, I'm Howl (Xiaoquan Kong) 👋
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoquan-howl-kong/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiaoquan.kong@duke.edu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-site.com)
-  
-</div>
-
 ## 🎓 About Me
 
 I'm an AI Master's student at Duke University (graduating Dec 2025) passionate about building production-ready AI systems that make a real impact. Currently serving as a Research Assistant at Duke CREATE Lab, where I developed an AI educational platform serving **200+ users** with **10K+ monthly interactions**.
@@ -104,39 +96,9 @@ I'm an AI Master's student at Duke University (graduating Dec 2025) passionate a
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=howlanderson&show_icons=true&theme=tokyonight&hide_border=true" alt="Howl's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howlanderson&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
 ## 🏆 Achievements
 
 - 🥇 **Duke AI Hackathon Champion** (Oct 2024) - 1st place among 31 teams
 - 📈 **Course Record Holder** - AIPI 520 Kaggle Competition (1st/38)
 - 🎯 **Business Simulation Champion** - MENG 570 (1st/48)
-- 🎓 **GPA: 3.9/4.0** at Duke University
-
-## 📫 Let's Connect!
-
-I'm actively seeking New Grad opportunities in AI/ML and Software Engineering. Feel free to reach out if you'd like to discuss:
-
-- 🤝 Job opportunities at innovative tech companies
-- 💡 Collaboration on AI/ML projects
-- 🔬 Research in LLMs, RAG systems, or AI applications
-- ☕ General tech discussions and networking
-
-<div align="center">
-  
-  **📧 xiaoquan.kong@duke.edu**
-  
-  <sub>Open to work | Available for full-time positions starting Jan 2026</sub>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=howlanderson&color=blue&style=flat-square" alt="Profile Views">
-</div>
+- 🎓 **GPA: 3.9+/4.0** at Duke University
